@@ -8,13 +8,13 @@ JEE 2028 Aspirant | AI + Physics Builder 🚀
 
 💼 Open for Internships:
 I build Python projects for students/startups.
-WhatsApp: +91 9284022172
+WhatsApp: +91 9422962233
 Email: jtsawant52@gmail.com
 
 My Story: Building MIT portfolio without laptop, on grandfather's phone. No excuses.
 
 Check my repos below 👇
  
-Payment UPI: 9284022172
+Payment UPI: 9422962233
 
 Amazon pay/ Google Pay
