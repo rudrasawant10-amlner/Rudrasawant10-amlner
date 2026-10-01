@@ -14,3 +14,7 @@ Email: jtsawant52@gmail.com
 My Story: Building MIT portfolio without laptop, on grandfather's phone. No excuses.
 
 Check my repos below 👇
+ 
+Payment UPI: 9422966233
+
+Amazon pay/ Google Pay
