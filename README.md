@@ -15,6 +15,6 @@ My Story: Building MIT portfolio without laptop, on grandfather's phone. No excu
 
 Check my repos below 👇
  
-Payment UPI: 9422966233
+Payment UPI: 9284022172
 
 Amazon pay/ Google Pay
