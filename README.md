@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Rudra Sawant 👋 | Amalner, Maharashtra
+JEE 2028 Aspirant | AI + Physics Builder 🚀
 
-<!--
-**rudrasawant10-amlner/Rudrasawant10-amlner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 What I Build:
+- Pendulum AI Tracker - Python + Physics + Future OpenCV tracking
+- Solar System Simulator (coming tomorrow)
+- More AI projects daily on phone!
 
-Here are some ideas to get you started:
+💼 Open for Internships:
+I build Python projects for students/startups.
+WhatsApp: +91 YOUR_NUMBER_HERE
+Email: YOUR_EMAIL_HERE@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Story: Building MIT portfolio without laptop, on grandfather's phone. No excuses.
+
+Check my repos below 👇
